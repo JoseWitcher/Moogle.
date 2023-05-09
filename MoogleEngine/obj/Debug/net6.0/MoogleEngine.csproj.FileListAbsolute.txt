@@ -1,0 +1,24 @@
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Projects/Proyecto Primer Semestre Moogle/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Projects/Moogle/Mi Proyecto/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
